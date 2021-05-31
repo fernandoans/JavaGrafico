@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ScatterPlot
+comment1.params=dados
+comment1.target=ScatterPlot(Ponto[])
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HelloWorldSwing
+comment1.params=
+comment1.target=HelloWorldSwing()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=fxPanel
+comment3.target=void\ iniciarFX(javafx.embed.swing.JFXPanel)
+comment4.params=
+comment4.target=javafx.scene.Scene\ criarCena()
+comment5.params=event
+comment5.target=void\ handle(javafx.event.ActionEvent)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

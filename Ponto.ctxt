@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ponto
+comment1.params=pX\ pY
+comment1.target=Ponto(int,\ int)
+comment2.params=
+comment2.target=int\ getPX()
+comment3.params=
+comment3.target=int\ getPY()
+numComments=4

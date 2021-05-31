@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PieChart
+comment1.params=slices
+comment1.target=PieChart(Slice[])
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=g\ area
+comment3.target=void\ drawPie(java.awt.Graphics2D,\ java.awt.Rectangle)
+numComments=4

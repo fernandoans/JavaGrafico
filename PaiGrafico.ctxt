@@ -1,11 +1,13 @@
 #BlueJ class context
 comment0.target=PaiGrafico
-comment1.params=titulo\ w\ h
-comment1.target=PaiGrafico(java.lang.String,\ int,\ int)
-comment2.params=
-comment2.target=void\ run()
-comment3.params=fxPanel
-comment3.target=void\ iniciarFX(javafx.embed.swing.JFXPanel)
-comment4.params=
-comment4.target=javafx.scene.Scene\ criarCena()
-numComments=5
+comment1.params=
+comment1.target=javafx.embed.swing.JFXPanel\ getJFXPanel()
+comment2.params=titulo\ w\ h
+comment2.target=PaiGrafico(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=fxPanel
+comment4.target=void\ iniciarFX(javafx.embed.swing.JFXPanel)
+comment5.params=
+comment5.target=javafx.scene.Scene\ criarCena()
+numComments=6
